@@ -20,4 +20,4 @@ sebbe.adress = {
     ort: 'Förorten',
 } 
 console.log(martin.print()); 
-console.log(sebbe.print());
+console.log(sebbe.print());a
